@@ -7,6 +7,7 @@ passes away, a beneficiary needs to file a claim so the company can take
 over funeral costs. Build a small module for this.
 
 **Time budget:** ~35–40 minutes
+
 **Language:** PHP/Laravel, Python, or JS/Node — whichever you're strongest in
 
 ## Provided
